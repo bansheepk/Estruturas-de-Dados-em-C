@@ -212,7 +212,7 @@ int main() {
     Poli* polinomio1 = NULL;
     Poli* polinomio2 = NULL;
 
-    // Criando polinômios 3x^2 + 2x + 1 e 5x^2 + 4x + 3
+    // Criando polinômios 3x^3 + 5x^2 + 2x + 1 e 5x^2 + 4x + 3
     adicionarTermo(&polinomio1, 3, 3);
     adicionarTermo(&polinomio1, 5, 2);
     adicionarTermo(&polinomio1, 2, 1);
